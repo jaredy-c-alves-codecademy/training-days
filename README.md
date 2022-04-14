@@ -1,0 +1,1 @@
+Project: **Training Days**, following tasks from Codecademy.
